@@ -3,3 +3,4 @@
 - 👾 My email: jrixweb@gmail.com.
 - Check out my website: [jrix-g.github.io](https://jrix-g.github.io/)
 - ENTJ-T
+- Student Engineer
