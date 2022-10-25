@@ -1,3 +1,9 @@
+<img
+  src="/Jrix-G/blob/main/5843425.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
 - 👋 Hey, I’m @Jrix-G
 - ❄️ Currently a student and self-taught with a passion for everything
 - 👾 My email: jrixweb@gmail.com
