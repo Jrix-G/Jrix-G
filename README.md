@@ -2,7 +2,7 @@
   src="/5843425.png"
   alt="Alt text"
   title="Optional title"
-  style="width="100" height="100"">
+  style="width="100" height="100">
   
 - 👋 Hey, I’m @Jrix-G
 - ❄️ Currently a student and self-taught with a passion for everything
