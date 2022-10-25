@@ -1,5 +1,5 @@
 <img
-  src="/Jrix-G/blob/main/5843425.png"
+  src="/Jrix-G/5843425.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
