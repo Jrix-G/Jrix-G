@@ -2,7 +2,7 @@
   src="/5843425.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 150px">
+  style="display: inline-block; margin: 0 auto; max-width: 150px; max-height: 150px">
   
 - 👋 Hey, I’m @Jrix-G
 - ❄️ Currently a student and self-taught with a passion for everything
