@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="/banner.png"
+    src="/banner6.png"
     alt="Alt text"
     title="Optional title"
     height="200"
