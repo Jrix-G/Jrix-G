@@ -4,7 +4,7 @@
     alt="Alt text"
     title="Optional title"
     height="200"
-    width="700"
+    width="100%"
     style="border-radius: 50%"
   >
 </p>
