@@ -8,10 +8,11 @@
     style="border-radius: 50%"
   >
 </p>
-  
-- 👋 Hey, I’m @Jrix-G
-- ❄️ Currently a student and self-taught with a passion for everything
-- 👾 My email: jrixweb@gmail.com
-- Check out my website: [jrix-g.github.io](https://jrix-g.github.io/)
-- ENTJ-T
-- Student Engineer
+
+<h1>🧙‍♂️ About Me </h1>
+<p>Hi, I'm Jason, a student in engineering school. I love the field of science, with math, physics and computer development. But I also love to write, philosophize, and work on many subjects.</p>
+<p>More informations on my website(currently under renovation): https://jrix-g.github.io/</p>
+
+
+<h1>📫 Contact </h1>
+<p>My email: jrixweb@gmail.com</p>
