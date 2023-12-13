@@ -11,7 +11,7 @@
 
 <h1>🧙‍♂️ About Me </h1>
 <p>Hi, I'm Jason, a student in engineering school. I love the field of science, with math, physics and computer development. But I also love to write, philosophize, and work on many subjects.</p>
-<p>Also a chess player, rated 2000 elos on chess.com.</p>
+<p>Also a chess player, rated 2016 elos on chess.com.</p>
 
 
 
