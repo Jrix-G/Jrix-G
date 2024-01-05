@@ -18,7 +18,7 @@ Future Software Engenineer
 * 🌍  I'm based in France, next to Geneva
 * 🖥️  See my portfolio at [jasonmourier.dev](http://jasonmourier.dev)
 * ✉️  You can contact me at [jrixweb@gmail.com](mailto:jrixweb@gmail.com)
-* ⚡  I'm working on a social media + a book.
+* ⚡  I'm working on a social media + a book
 
 ### Skills
 
