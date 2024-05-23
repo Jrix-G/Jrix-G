@@ -15,10 +15,10 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 Future Software Engenineer
 --------------------------
 
-* 🌍  I'm based in France, next to Geneva
+* 🌍  I'm based in France, next to Geneva.
 * 🖥️  See my portfolio at [jasonmourier.dev](http://jasonmourier.dev)
 * ✉️  You can contact me at [jrixweb@gmail.com](mailto:jrixweb@gmail.com)
-* ⚡  Two start-ups created and high hopes for the future
+* ⚡  Two start-ups created and high hopes for the future.
 
 ### Skills
 
