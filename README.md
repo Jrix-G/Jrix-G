@@ -18,7 +18,7 @@ Future Software Engineer
 * 🌍  I'm based in France, next to Geneva
 * 🖥️  See my portfolio at [jasonmourier.dev](http://jasonmourier.dev)
 * ✉️  You can contact me at [contact@jasonmourier.dev](mailto:contact@jasonmourier.dev)
-* ⚡  Two start-ups created
+* ⚡  Two start-ups created - Check tandor.fr
 
 ### Skills
 
